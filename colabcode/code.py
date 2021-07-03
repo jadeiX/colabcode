@@ -15,7 +15,23 @@ except ImportError:
     colab_env = False
 
 
-EXTENSIONS = ["ms-python.python", "ms-toolsai.jupyter", "mechatroner.rainbow-csv", "vscode-icons-team.vscode-icons"]
+EXTENSIONS = [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "mechatroner.rainbow-csv",
+    "dakara.dakara-foldplus",
+    "njpwerner.autodocstring",
+    "njqdev.vscode-python-typehint",
+    "coenraads.bracket-pair-colorizer",
+    "mrmlnc.vscode-duplicate",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "ms-python.vscode-pylance",
+    "pkief.material-icon-theme",
+    "littlefoxteam.vscode-python-test-adapter",
+    "ms-vscode.test-adapter-converter",
+    "hbenl.vscode-test-explorer"
+]
 CODESERVER_VERSION = "3.10.2"
 
 

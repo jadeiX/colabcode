@@ -28,9 +28,6 @@ EXTENSIONS = [
     "oderwat.indent-rainbow",
     "ms-python.vscode-pylance",
     "pkief.material-icon-theme",
-    "littlefoxteam.vscode-python-test-adapter",
-    "ms-vscode.test-adapter-converter",
-    "hbenl.vscode-test-explorer"
 ]
 CODESERVER_VERSION = "3.10.2"
 

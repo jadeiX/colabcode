@@ -28,7 +28,6 @@ EXTENSIONS = [
     "oderwat.indent-rainbow",
     "ms-python.vscode-pylance",
     "pkief.material-icon-theme",
-    "benjaminblonde.monokai-alt"
 ]
 CODESERVER_VERSION = "3.10.2"
 
